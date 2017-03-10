@@ -22,5 +22,8 @@
     "react-modal-dialog": "^4.0.7",
     "react-select": "^1.0.0-rc.3",
     "webpack": "^1.12.13"
+  },
+  "dependencies": {
+    "react-datetime": "^2.8.8"
   }
 }
