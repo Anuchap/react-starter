@@ -56,9 +56,17 @@
 
 	var App = function App() {
 	  return _react2.default.createElement(
+	    'div',
+	    null,
+	    _react2.default.createElement(Header, null)
+	  );
+	};
+
+	var Header = function Header() {
+	  return _react2.default.createElement(
 	    'h1',
 	    null,
-	    'React Starter'
+	    'Header Component'
 	  );
 	};
 
